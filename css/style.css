@@ -10,8 +10,9 @@ body {
 }
 
 img {
+    
     display: block;
-    float:inline-end;
+    float: right;
     padding: 25px;
     clear: both;
     height: 350%;
