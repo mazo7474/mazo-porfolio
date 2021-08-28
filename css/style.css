@@ -1,3 +1,19 @@
 h1 {
+    color: black;
+    text-align: center;
     
+
+}
+
+body {
+    background-color: #bac5867a;
+}
+
+img {
+    display: block;
+    float:inline-end;
+    padding: 25px;
+    clear: both;
+    height: 350%;
+    width: 350px;
 }
