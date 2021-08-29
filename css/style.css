@@ -1,4 +1,9 @@
 .container {
-    background-color: rgb(196, 253, 255);
+    background-color: rgba(118, 138, 125, 0.918);
     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+img {
+    height: 350px;
+    width: 500px;
 }
